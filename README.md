@@ -1,6 +1,6 @@
-# Gift-langing
+# Langing page
 
-** https://kateshukhto.github.io/gift-langing/ **
+**https://kateshukhto.github.io/gift-langing/**
 
 ## Technologies Used
 
